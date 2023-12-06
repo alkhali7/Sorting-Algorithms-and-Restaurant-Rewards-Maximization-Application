@@ -41,13 +41,17 @@ Sorting is a critical operation in computer science, used extensively in data or
 ## Technologies Used
 
 -Python
+
 -Sorting Algorithms (Bubble, Insertion, Selection, Merge, Hybrid Merge/Insertion Sort)
 
 ## Setup and Installation
 
 1.Clone the repository to your local machine.
+
 2.Ensure Python is installed on your system.
+
 3.Navigate to the project directory.
+
 4.Run the implementaion file to test the sorting algorithms and the reward maximization application.
 
 ## Usage
